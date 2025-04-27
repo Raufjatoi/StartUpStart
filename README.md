@@ -1,4 +1,4 @@
-# StartUpStart 🚀
+# StartUpStart 
 
 Your AI-powered launchpad for startup success. StartUpStart combines cutting-edge AI technology with comprehensive startup analysis to transform your ideas into viable businesses.
 
@@ -10,9 +10,9 @@ Your AI-powered launchpad for startup success. StartUpStart combines cutting-edg
 - 🎯 Investment readiness scoring
 
 ## Tech Stack
-React • TypeScript • Tailwind • Supabase • GROQ • Gemini Pro
+React • TypeScript • Tailwind • Supabase • GROQ • Gemini • Vapi  
 
-[Live Demo](https://startupstart.vercel.app) | [Documentation](https://docs.startupstart.com)
+[Live Demo](https://startupstart.vercel.app) | [Designer and Builder](https://rauf-psi.vercel.app/) 
 
-Built with ❤️ by Abdul Rauf & Muhammad Owais Dehri
+Built with ❤️ by Abdul Rauf Jatoi & Muhammad Owais Dehri
 
